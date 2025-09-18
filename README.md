@@ -4,6 +4,7 @@ This is the place where I share projects and learn about multiple things
 
 - 👨‍💻 I’m currently working on development iOS applications
 - 🌱 I’m currently learning about CI/CB with Kubernets, docker, jenkins, SwiftLint and Horusec
+- 🤖 Developing applications chatbot with n8n, api with python, database SQL and webpage with react native
 - 👀 I’m interested in mobile applications Android and iOS, blockchain and machine learning
 - 📫 How to reach me @ antoniorisonaldo@gmail.com
 - ⚡ Fun fact: I love coffe and to learn things news
